@@ -12,7 +12,7 @@ export default {
     "infinite": "Nelimitat"
   },
   "error": {
-    "not_fount_data": "Data negasita!",
+    "not_fount_data": "Date negasite!",
     "license_max_limit": "Licența dvs. a atins limita!"
   },
   "time_spans": {
