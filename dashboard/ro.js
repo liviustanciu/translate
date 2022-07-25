@@ -34,7 +34,7 @@ export default {
   "show_shops_action": "Lista magazinelor mele",
   "Youtube": "YouTube",
   "Linkedin": "Linkedin",
-  "Twitter": "Stare de nervozitate",
+  "Twitter": "Twitter",
   "Facebook": "Facebook",
   "Instagram": "Instagram",
   "Reddit": "Reddit",
