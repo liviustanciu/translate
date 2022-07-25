@@ -43,7 +43,7 @@ export default {
     "home": "Selldone | Sistemul de operare pentru afaceri pentru companii cu creștere rapidă",
     "login": "Autentificare",
     "register": "Inregistreaza-te",
-    "auth_2fa": "Autentificare cu 2 factori 🔐",
+    "auth_2fa": "Autentificare în 2 factori 🔐",
     "academy": "Blog",
     "help": "Centru de ajutor",
     "price_list": "Listă de prețuri",
